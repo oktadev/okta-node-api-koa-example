@@ -1,6 +1,6 @@
 # Build A Secure Node.js API with KoaJS Example
 
-This example project is for the blog post "[Build A Secure Node.js API with KoaJS]()."
+This example project is for the blog post "[Build A Secure Node.js API with KoaJS](https://developer.okta.com/blog/2020/07/17/secure-node-api-with-koa)."
 
 This project requires:
 
